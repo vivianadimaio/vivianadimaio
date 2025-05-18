@@ -1,7 +1,7 @@
 # 👋🏻 Hi! I'm Viviana Di Maio  
 👩🏻‍💻 Data & AI Analyst (in training) with a humanities background  
-🌱 Currently enrolled in an intensive program at Develhope   
-📊 Passionate about sustainability, technology and data analysis 
+📊 Currently enrolled in an intensive program at Develhope   
+🌱 Passionate about sustainability, technology and data analysis 
 
 ## 🔧 Skills  
 - Languages: Python, SQL  

@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋🏻 Hi! I'm Viviana Di Maio  
+👩🏻‍💻 Data & AI Analyst (in training) with a humanities background  
+🌱 Currently enrolled in an intensive program at Develhope   
+📊 Passionate about sustainability, technology and data analysis 
 
-<!--
-**vivianadimaio/vivianadimaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills  
+- Languages: Python, SQL  
+- Libraries: Pandas, NumPy  
+- Data Visualization: Google Sheets, Canva  
+- Basic ML: Predictive models for trend detection and process optimization  
 
-Here are some ideas to get you started:
+## 📂 Projects   
+- (coming soon...)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact me: viviana.dimaio4444@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vivianadimaio)

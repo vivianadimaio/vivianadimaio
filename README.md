@@ -11,8 +11,8 @@
 
 ## 📂 Projects   
 - 🎬 **Film Rental Market Analysis**  
-  Exploratory Data Analysis of a film rental platform using Google Sheets & SQLite
-  📄 [View presentation](https://github.com/vivianadimaio/vivianadimaio/raw/main/MovieNow_ppt.pdf)
+  Exploratory Data Analysis of a film rental platform using Google Sheets & SQLite  
+📄 [View presentation](https://github.com/vivianadimaio/vivianadimaio/raw/main/MovieNow_ppt.pdf)
  
 
 📫 Contact me: viviana.dimaio4444@gmail.com  

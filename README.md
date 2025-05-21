@@ -10,7 +10,10 @@
 - Basic ML: Predictive models for trend detection and process optimization  
 
 ## 📂 Projects   
-- (coming soon...)  
+- 🎬 **Film Rental Market Analysis**  
+  Exploratory data analysis of a digital film rental platform using Google Sheets & SQL  
+  📄 [View presentation](https://github.com/vivianadimaio/vivianadimaio/raw/main/MovieNow_ppt.pdf)
+ 
 
 📫 Contact me: viviana.dimaio4444@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vivianadimaio)

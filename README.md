@@ -7,7 +7,7 @@
 - Languages: Python, SQL  
 - Libraries: Pandas, NumPy  
 - Data Visualization: Google Sheets, Canva  
-- Basic ML: Predictive models for trend detection and process optimization  
+- Basic Machine Learning: Predictive models for trend detection and process optimization  
 
 ## 📂 Projects   
 - 🎬 **Film Rental Market Analysis**  

@@ -11,7 +11,7 @@
 
 ## 📂 Projects   
 - 🎬 **Film Rental Market Analysis**  
-  Exploratory data analysis of a digital film rental platform using Google Sheets & SQL  
+  Exploratory Data Analysis of a film rental platform using Google Sheets & SQLite
   📄 [View presentation](https://github.com/vivianadimaio/vivianadimaio/raw/main/MovieNow_ppt.pdf)
  
 

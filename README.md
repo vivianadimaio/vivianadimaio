@@ -13,7 +13,10 @@
 - 🎬 **Film Rental Market Analysis**  
   Exploratory Data Analysis of a film rental platform using Google Sheets & SQLite  
 📄 [View presentation](https://github.com/vivianadimaio/vivianadimaio/raw/main/MovieNow_ppt.pdf)
- 
+
+- 🤖 **Bankruptcy Prediction**
+  Machine Learning classification model to predict bankruptcy risk using Python, Pandas & Scikit-Learn
+  📄 [View presentation](https://github.com/vivianadimaio/vivianadimaio/raw/main/ML_ppt.pdf)
 
 📫 Contact me: viviana.dimaio4444@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vivianadimaio)

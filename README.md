@@ -18,7 +18,7 @@
 
 - 🤖 **Bankruptcy Prediction**  
   Machine Learning classification model to predict bankruptcy risk using Python, Pandas & Scikit-Learn  
-  📄 [View presentation](https://github.com/vivianadimaio/vivianadimaio/raw/main/ML_ppt.pdf)
+  📄 [View presentation](https://github.com/vivianadimaio/machine-learning-presentation/raw/main/ML_ppt.pdf)
 
 
 📫 Contact me: viviana.dimaio4444@gmail.com  

@@ -1,15 +1,15 @@
 # 👋🏻 Hi! I'm Viviana Di Maio  
-👩🏻‍💻 Data & AI Analyst (in training) with a humanities background  
-📊 Currently enrolled in an intensive program at Develhope   
-🌱 Passionate about sustainability, technology and data analysis 
-
+👩🏻‍💻 Data & AI Analyst with a humanities and international cooperation background  
+🎓 Recently completed an intensive training program in Data & AI at Develhope  
+🌱 Passionate about sustainability, technology and the social impact of data  
 
 ## 🔧 Skills  
 - Languages: Python, SQL  
 - Libraries: Pandas, NumPy  
 - Data Visualization: Google Sheets, Canva  
-- Basic Machine Learning: Predictive models for trend detection and process optimization  
-
+- Machine Learning: basic predictive models for trend detection and business process optimization  
+- Generative AI: basic understanding of LLMs and RAG 
+  
 
 ## 📂 Projects   
 - 🎬 **Film Rental Market Analysis**  

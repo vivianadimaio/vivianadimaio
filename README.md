@@ -1,6 +1,5 @@
 # 👋🏻 Hi! I'm Viviana Di Maio  
-👩🏻‍💻 Data & AI Analyst with a humanities and international cooperation background  
-🎓 Recently completed an intensive training program in Data & AI at Develhope  
+👩🏻‍💻 Data & AI Analyst with an international cooperation background    
 🌱 Passionate about sustainability, technology and the social impact of data  
 
 ## 🔧 Skills  

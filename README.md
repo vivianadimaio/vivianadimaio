@@ -5,8 +5,8 @@
 ## 🔧 Skills  
 - Languages: Python, SQL  
 - Libraries: Pandas, NumPy  
-- Data Visualization: Google Sheets, Canva  
-- Machine Learning: basic predictive models for trend detection and business process optimization  
+- Data Visualization: Google Sheets, Canva, Matplotlib, Seaborn  
+- Machine Learning: classification, predictive models, ensembles
 - Generative AI: basic understanding of LLMs and RAG 
   
 

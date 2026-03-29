@@ -3,15 +3,15 @@
 Passionate about data analysis and transforming complex datasets into actionable business insights. Currently seeking data-focused roles to further develop technical and analytical skills. 
 
 ## 🔧 Skills  
-- Data & Programming
+- Data & Programming:
 SQL, PL/SQL
 Bash
-- Data Integration
+- Data Integration:
 Informatica PowerCenter
 Control-M
-- Tools
+- Tools:
 Git, GitHub
-- Concepts
+- Concepts:
 Data Warehousing
 ETL & Data Pipelines
   

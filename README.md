@@ -1,13 +1,19 @@
 # 👋🏻 Hi! I'm Viviana Di Maio  
-👩🏻‍💻 Data & AI Analyst with an international cooperation background    
-🌱 Passionate about sustainability, technology and the social impact of data  
+👩🏻‍💻 Aspiring Data Analyst with hands-on experience in Data Warehouse and ETL processes in Financial Services. Skilled in SQL/PLSQL, Informatica PowerCenter, Bash, Git and Control-M for building and managing data pipelines.
+Passionate about data analysis and transforming complex datasets into actionable business insights. Currently seeking data-focused roles to further develop technical and analytical skills. 
 
 ## 🔧 Skills  
-- Languages: Python, SQL  
-- Libraries: Pandas, NumPy  
-- Data Visualization: Google Sheets, Canva, Matplotlib, Seaborn  
-- Machine Learning: classification, predictive models, ensembles
-- Generative AI: basic understanding of LLMs and RAG 
+- Data & Programming
+SQL, PL/SQL
+Bash
+- Data Integration
+Informatica PowerCenter
+Control-M
+- Tools
+Git, GitHub
+- Concepts
+Data Warehousing
+ETL & Data Pipelines
   
 
 ## 📂 Projects   

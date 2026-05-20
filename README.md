@@ -1,5 +1,5 @@
 # 👋🏻 Hi! I'm Viviana Di Maio  
-👩🏻‍💻 Aspiring Data Analyst with hands-on experience in Data Warehouse and ETL processes in Financial Services. Skilled in SQL/PLSQL, Informatica PowerCenter, Bash, Git and Control-M for building and managing data pipelines.
+👩🏻‍💻 Data Analyst with hands-on experience in Data Warehouse and ETL processes in Financial Services. Skilled in SQL/PLSQL, Informatica PowerCenter, Bash, Git and Control-M for building and managing data pipelines.
 Passionate about data analysis and transforming complex datasets into actionable business insights. Currently seeking data-focused roles to further develop technical and analytical skills. 
 
 ## 🔧 Skills  
@@ -10,7 +10,7 @@ Bash
 Informatica PowerCenter
 Control-M
 - Tools:
-Git, GitHub
+Git, GitHub, Microsoft Office, Google Workspace
 - Concepts:
 Data Warehousing
 ETL & Data Pipelines

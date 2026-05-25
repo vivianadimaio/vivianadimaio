@@ -1,6 +1,11 @@
 # 👋🏻 Hi! I'm Viviana Di Maio  
-👩🏻‍💻 Data Analyst with hands-on experience in Data Warehouse and ETL processes in Financial Services. Skilled in SQL/PLSQL, Informatica PowerCenter, Bash, Git and Control-M for building and managing data pipelines.
-Passionate about data analysis and transforming complex datasets into actionable business insights. Currently seeking data-focused roles to further develop technical and analytical skills. 
+👩🏻‍💻 I am a junior professional with experience in data analysis and reporting within a consulting environment at PwC.
+ 
+I am interested in digital transformation, process optimization and data-driven decision making, with a particular focus on how technology can improve operational efficiency and business processes.
+ 
+I have developed skills in SQL, reporting, data analysis and workflow management, working in dynamic and collaborative environments.
+ 
+I am currently looking for opportunities in consulting, digital transformation, business analysis and data analytics where I can continue learning and contribute to innovative projects.
 
 ## 🔧 Skills  
 - Data & Programming:

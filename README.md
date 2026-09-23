@@ -1,22 +1,29 @@
 # 👋🏻 Hi! I'm Viviana Di Maio  
-👩🏻‍💻 I am a Junior Data Analyst with experience in SQL, ETL processes, reporting and workflow management gained in the Financial Services consulting environment at PwC.
+👩🏻‍💻 I am a Junior Data Analyst with experience in SQL, ETL processes, reporting and data analysis gained in the Financial Services (Banking) consulting environment at PwC.
 
 I am passionate about Data Analytics and Business Intelligence, with a strong interest in transforming data into actionable insights through reporting, dashboarding and KPI analysis. I am developing my skills in Power BI and data visualization, combining analytical thinking with a continuous learning mindset.
 
-I am looking for opportunities as a Junior Data Analyst or Business Intelligence Analyst where I can contribute to data-driven decision making and further grow my technical and analytical skills.
+I am looking for opportunities as a Junior Data Analyst where I can contribute to data-driven decision making and further grow my technical and analytical skills.
 
 ## 🔧 Skills  
-- Data & Programming:
-SQL, PL/SQL
-Bash
-- Data Integration:
+
+-Data Analysis
+SQL (Oracle SQL)
+Python (Pandas, NumPy)
+Power BI
+
+-Data Integration & Version Control
 Informatica PowerCenter
-Control-M
-- Tools:
-Git, GitHub, Microsoft Office, Google Workspace, Power BI
-- Concepts:
-Data Warehousing
-ETL & Data Pipelines
+Git, GitHub
+
+-Productivity Tools
+Microsoft Office Suite (Excel, PowerPoint, Word)
+Google Workspace (Google Sheets)
+
+Languages
+Italian: Native speaker
+English: B2
+Spanish: B2
   
 
 ## 📂 Projects   
